@@ -118,9 +118,6 @@ Contributions are welcome! Here's how to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
 
-**Prabhmehar Bedi**
 
-- GitHub: [prabhmeharbedi](https://github.com/prabhmeharbedi)
-- LinkedIn: [Prabhmehar Bedi](https://www.linkedin.com/in/prabhmeharbedi/)
+
